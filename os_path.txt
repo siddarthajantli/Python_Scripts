@@ -1,0 +1,9 @@
+import os
+
+#Untitled-2
+
+print (os.getcwd())
+print (os.listdir())
+#print (os.chdir('C:\Python311'))
+#print (os.getcwd())
+#print (os.path.isfile('Untitled-2.py'))
